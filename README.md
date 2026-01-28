@@ -1,2 +1,1 @@
-# Awesome-SQLite
-Awesome SQLite
+# Awesome SQLite
